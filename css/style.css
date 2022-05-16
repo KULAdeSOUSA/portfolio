@@ -502,6 +502,14 @@
      line-height: 85px;
      font-size: 5em;
     }
-    
+    #div-box-2 p{
+        text-shadow: 0 0 0.2em #121214; 
+     }
+     #div-box-2 h1{
+        text-shadow: 0 0 0.2em #121214;
+      }
+      #div-box-2 h1{
+        text-shadow: 0 0 0.2em #121214;
+      }
 
    }
